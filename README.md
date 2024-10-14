@@ -47,3 +47,11 @@ SELECT * FROM EMPOLYEE
 WHERE STAFFID 'AB212'
 ```
 
+### Data Visualization
+
+![My Pivot analysis 1](https://github.com/user-attachments/assets/ced5a275-0676-475a-9df8-728617fdf9ed)
+
+![My Pivot analysis 2](https://github.com/user-attachments/assets/989284f7-6e7d-4135-a2ad-779d192d0e00)
+
+
+
